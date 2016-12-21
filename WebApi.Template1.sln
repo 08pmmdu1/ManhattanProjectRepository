@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanProject.WebApi", "WebApi.Template1\ManhattanProject.WebApi.csproj", "{110745E8-6004-46CA-8499-6977998C0408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanProject.Models", "ManhattanProject.Models\ManhattanProject.Models.csproj", "{3BB73C0E-7738-4956-9E17-DC9C011BC959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanProject.Repositories", "ManhattanProject.Repositories\ManhattanProject.Repositories.csproj", "{A8534F80-2878-4DC0-A51A-54E98B79EE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanProject.Repositories.Interfaces", "ManhattanProject.Repositories.Interfaces\ManhattanProject.Repositories.Interfaces.csproj", "{12822EF8-EF10-4CD5-B314-F6F844E26266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanProject.Services.Interfaces", "ManhattanProject.Services.Interfaces\ManhattanProject.Services.Interfaces.csproj", "{F8314FE4-63CD-46D4-AB76-099F4D527E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanProject.Services", "ManhattanProject.Services\ManhattanProject.Services.csproj", "{1320101C-DC67-4BF7-8BCC-081F4A1137BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110745E8-6004-46CA-8499-6977998C0408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110745E8-6004-46CA-8499-6977998C0408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110745E8-6004-46CA-8499-6977998C0408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110745E8-6004-46CA-8499-6977998C0408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB73C0E-7738-4956-9E17-DC9C011BC959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB73C0E-7738-4956-9E17-DC9C011BC959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB73C0E-7738-4956-9E17-DC9C011BC959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB73C0E-7738-4956-9E17-DC9C011BC959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8534F80-2878-4DC0-A51A-54E98B79EE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8534F80-2878-4DC0-A51A-54E98B79EE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8534F80-2878-4DC0-A51A-54E98B79EE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8534F80-2878-4DC0-A51A-54E98B79EE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12822EF8-EF10-4CD5-B314-F6F844E26266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12822EF8-EF10-4CD5-B314-F6F844E26266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12822EF8-EF10-4CD5-B314-F6F844E26266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12822EF8-EF10-4CD5-B314-F6F844E26266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8314FE4-63CD-46D4-AB76-099F4D527E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8314FE4-63CD-46D4-AB76-099F4D527E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8314FE4-63CD-46D4-AB76-099F4D527E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8314FE4-63CD-46D4-AB76-099F4D527E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1320101C-DC67-4BF7-8BCC-081F4A1137BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1320101C-DC67-4BF7-8BCC-081F4A1137BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1320101C-DC67-4BF7-8BCC-081F4A1137BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1320101C-DC67-4BF7-8BCC-081F4A1137BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
