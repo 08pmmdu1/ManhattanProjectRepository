@@ -3,6 +3,7 @@
     public class User
     {
         public int Id { get; set; }
+        //Имя
         public string Name { get; set; }
         public byte SecondName { get; set; }
         public string Login { get; set; }
