@@ -4,10 +4,10 @@
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public byte SecondName { get; set; }
         public string Login { get; set; }
         public string Email { get; set; }
         public byte Age { get; set; }
         public string Passport { get; set; }
-
     }
 }
