@@ -5,6 +5,7 @@
         public int Id { get; set; }
         //Имя
         public string Name { get; set; }
+        //Фамилия
         public byte SecondName { get; set; }
         public string Login { get; set; }
         public string Email { get; set; }
