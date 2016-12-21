@@ -18,6 +18,8 @@ namespace ManhattanProject.Repositories.Mappings
 
             this.Property(p => p.Email).HasColumnName("email");
 
+            this.Property(p => p.Age).HasColumnName("age");
+
         }
     }
 }
